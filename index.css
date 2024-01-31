@@ -1,0 +1,63 @@
+body {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background-color: 1B244A;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: space-around;
+ 
+}
+
+h3 {
+    font-size: 60px;
+    font-weight: bold;
+    color: EEEEEE;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+   
+}
+
+.btn button {
+    text-align: center;
+    font-size: large;
+    background-color: 1B244A;
+    color: EEEEEE;
+    outline: auto rgb(226, 221, 221);
+    padding: 5px 10px;
+    margin: 5px 5px 5px 5px; 
+   }
+
+.restart button {
+    outline: auto rgb(226, 221, 221);
+    border-radius: 10px;
+    color: 1B244A;
+    padding: 10px 10px 10px 10px;
+    margin: 250px 0px 0px 0px;
+    font-size: 40px;
+    text-align: center;  
+}
+
+.restart button:hover {
+    background-color:1B244A;
+    outline: auto rgb(226, 221, 221);
+    color:EEEEEE;
+    transform: scale(1.4);
+}
+
+
+.score-container {
+    display: inline-block;
+    width: 100px;
+    font-family: 'Cursed Timer ULiL', sans-serif;
+    font-size: 60px;
+    font-weight: bold;
+    padding: 15 20 15 20;
+    margin: 0 0 50 0;
+    background-color: black;
+    color: F94F6D;
+}
+v evz
